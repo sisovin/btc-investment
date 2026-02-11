@@ -7,7 +7,11 @@ A modern, secure, and scalable High-Yield Investment Program (HYIP) platform bui
 ![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen)
 ![Security](https://img.shields.io/badge/Security-Audited-orange)
 
-## 🚀 Features
+## � Screenshot
+
+![Home Page Screenshot](public/assets/images/Home_Page.png)
+
+## �🚀 Features
 
 ### Core Features
 
